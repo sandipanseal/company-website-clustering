@@ -103,8 +103,6 @@ print(pd.DataFrame(metrics).T)
 # Noise count for DBSCAN
 noise_count = int((results['dbscan'] == -1).sum())
 print(f"DBSCAN noise count: {noise_count}")
-noise_count = int((results['dbscan'] == -1).sum())
-print(f"DBSCAN noise count: {noise_count}")
 
 # 9. Visualizations
 ## 9.1 PCA 2D for all methods
