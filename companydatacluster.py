@@ -52,7 +52,7 @@ for rec in target:
 tfidf = TfidfVectorizer(max_features=5000, ngram_range=(1,2), token_pattern=r"(?u)\b\w+\b")
 X_tfidf = tfidf.fit_transform(texts).toarray()
 ## 4.2 BERT embeddings
-model = SentenceTransformer('distilbert-base-multilingual-cased')
+model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')  
 X_bert = model.encode(texts, batch_size=32, show_progress_bar=True)
 ## 4.3 Sector one-hot
 enc = OneHotEncoder(sparse_output=False, handle_unknown='ignore')
@@ -72,7 +72,7 @@ kmeans = KMeans(n_clusters=6, random_state=42, n_init=10)
 labels_k = kmeans.fit_predict(X)
 results['kmeans'] = labels_k
 # 7.2 DBSCAN on PCA50
-db = DBSCAN(eps=1.0, min_samples=5, n_jobs=-1)
+db = DBSCAN(eps=2.0, min_samples=5, n_jobs=-1)
 labels_db = db.fit_predict(X50)
 results['dbscan'] = labels_db
 # 7.3 Agglomerative (Ward)
@@ -81,23 +81,28 @@ labels_h = hier.fit_predict(X50)
 results['hierarchical'] = labels_h
 
 # 8. Evaluation and purity
-def compute_metrics(Xfeat, labels):
-    mask = labels != -1 if 'dbscan'==method else np.ones_like(labels, dtype=bool)
-    sil = silhouette_score(Xfeat[mask], labels[mask]) if mask.sum()>1 else -1
-    dfm = pd.DataFrame({'sector': sectors, 'label': labels})
-    purity = dfm[dfm.label!=-1].groupby('label')['sector'].agg(lambda x: x.value_counts().iloc[0] / len(x)).mean()
-    return sil, purity
 metrics = {}
 for method, labels in results.items():
+    # select feature space
     feat = X50 if method in ['dbscan','hierarchical'] else X
+    # mask noise only for dbscan
     mask = labels != -1 if method=='dbscan' else np.ones_like(labels, bool)
+    # silhouette
     sil = silhouette_score(feat[mask], labels[mask]) if mask.sum()>1 else -1
+    # purity
     dfm = pd.DataFrame({'sector': sectors, 'label': labels})
-    purity = dfm[dfm.label!=-1].groupby('label')['sector'] .agg(lambda x: x.value_counts().iloc[0] / len(x)).mean()
+    valid = dfm[dfm.label!=-1]
+    purity = valid.groupby('label')['sector']\
+                  .agg(lambda x: x.value_counts().iloc[0] / len(x))\
+                  .mean()
     metrics[method] = {'silhouette': sil, 'purity': purity}
+
+# print metrics table
 print(pd.DataFrame(metrics).T)
 
 # Noise count for DBSCAN
+noise_count = int((results['dbscan'] == -1).sum())
+print(f"DBSCAN noise count: {noise_count}")
 noise_count = int((results['dbscan'] == -1).sum())
 print(f"DBSCAN noise count: {noise_count}")
 
