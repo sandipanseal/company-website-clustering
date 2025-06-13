@@ -1,0 +1,650 @@
+label,,"Diese Gruppe umfasst die Herstellung von Zucker und Süßwaren, Fertiggerichten, Kaffee,
+Tee und Gewürzen sowie von begrenzt haltbaren Lebensmitteln und Spezialitäten","Diese Klasse umfasst:
+– Betrieb von Stromerzeugungsanlagen; dazu zählen fossilthermische Kraftwerke,
+Kernkraft-, Gasturbinen- und Dieselkraftwerke sowie mit erneuerbaren Energieträgern
+(Windkraft, Wasserkraft, Sonnenenergie) betriebene Kraftwerke
+Diese Unterklasse umfasst nicht:
+– Erzeugung von Elektrizität durch das Verbrennen von Abfällen (s. 38.21.0)","Diese Klasse umfasst:
+– Zusammenstellung von Stellenangeboten und die Vermittlung von Bewerberinnen und
+Bewerbern, wobei die vermittelten Personen nicht bei den Stellenvermittlungsbüros
+beschäftigt sind:
+• Suche, Auswahl und Vermittlung von Arbeitskräften bzw. Arbeitsstellen einschließlich
+Suche und Vermittlung von Führungskräften
+• Agenturen und Büros, die Schauspielerinnen und Schauspieler vermitteln, z. B.
+Castingagenturen
+• Online-Arbeitsvermittlungsagenturen
+Diese Unterklasse umfasst nicht:
+– Tätigkeit von Agenturen für die Vermittlung einzelner Künstlerinnen und Künstler (s. 74.90.0)","Diese Unterklasse umfasst das Verlegen von Büchern in gedruckter oder elektronischer Form
+(als CD oder mit elektronischer Anzeigevorrichtung usw.), z. B. als Hörbücher oder im
+Internet.
+
+Diese Unterklasse umfasst:
+– Verlegen von Büchern, Broschüren, Faltblättern und ähnlichen Druckerzeugnissen
+einschließlich Wörterbücher und Enzyklopädien
+– Verlegen von Atlanten und anderen kartografischen Erzeugnissen
+– Verlegen von Hörbüchern
+Diese Unterklasse umfasst nicht:
+– Herstellung von Globen (s. 32.99.0)
+– Verlegen von Werbematerial (s. 58.19.0)
+– Musik- und Notenverlage (s. 59.20.3)
+– selbstständige Autoren (s. 90.03.2)","Diese Unterklasse umfasst die Entwicklung, die Anpassung, das Testen und die Pflege von
+Software (ohne solche für Internetpräsentationen) sowie das Verfassen der
+Software-Dokumentation.
+
+Diese Unterklasse umfasst:
+– Design der Struktur und des Inhalts von und/oder Durchführung der notwendigen
+Programmierarbeiten zur Entwicklung und Implementierung von:
+• Systemsoftware (einschließlich Aktualisierung und Patches)
+• Softwareanwendungen (einschließlich Aktualisierungen und Patches)
+• Datenbanken
+– Anpassung von Software (ohne Internetpräsentationen) an Kundenanforderungen, d. h.
+Änderung oder Konfigurierung bestehender Anwendungen, damit sie in der
+Systemumgebung des Kunden betriebsfähig werden
+Diese Unterklasse umfasst nicht:
+– Verlegen von Softwarepaketen (s. 58.29.0)
+– Übersetzung oder Anpassung von Standardsoftware an einen bestimmten Markt auf eigene
+Rechnung (s. 58.29.0)
+– Planung und Entwurf von Computersystemen, die Hardware-, Software- und
+Kommunikationstechnologie umfassen, auch wenn die Bereitstellung der Software einen integralen
+Bestandteil dieser Dienstleistungen bildet (s. 62.02.0)","Diese Unterklasse umfasst die Erbringung einer Kombination von Unterstützungsleistungen
+innerhalb der Gebäude und Anlagen eines Kunden. Zu diesen Dienstleistungen zählen die
+allgemeine Innenreinigung, Wartung, Abfallentsorgung, Wach- und Sicherheitsdienste,
+Hauspostbeförderung, Empfang, Wäschereinigung sowie damit verbundene
+Dienstleistungen zur Unterstützung der Tätigkeiten innerhalb von Gebäuden und Anlagen.
+Diese Dienstleistungen werden von externem Betriebspersonal erbracht, das nichts mit dem
+Kerngeschäft oder den Kerntätigkeiten des Kunden zu tun hat und keine Verantwortung
+dafür trägt.
+Diese Unterklasse umfasst nicht:
+– Erbringung einzelner Dienstleistungen (z. B. nur Innenreinigung) oder Ausübung einzelner
+Funktionen (z. B. nur Heizungsbetrieb) (s. die entsprechende Klasse der erbrachten Dienstleistung)
+– Bereitstellung von Management- oder Betriebspersonal für den gesamten Betrieb eines Kunden, z. B.
+ein Hotel, ein Restaurant, ein Bergwerk oder ein Krankenhaus (s. Klasse des Betriebes)
+– Verwaltung und Betrieb der Computersysteme und/oder Datenverarbeitungsanlagen eines Kunden
+vor Ort (s. 62.03.0)
+– Betrieb von Justizvollzugsanstalten im Lohnauftrag (s. 84.23.0)","Diese Unterklasse umfasst die Erbringung einer Vielzahl von Dienstleistungen, im
+Allgemeinen für kommerzielle Kunden. Sie beinhaltet Tätigkeiten, für die fortgeschrittene
+berufliche, wissenschaftliche und technische Kenntnisse erforderlich sind. Nicht
+eingeschlossen sind laufende routinemäßige Geschäftsvorgänge, die in der Regel von kurzer
+Dauer sind oder deren Hauptzweck nicht im Transfer von Fachwissen besteht.
+
+Diese Unterklasse umfasst:
+– Maklergeschäfte wie Vermittlung von Verträgen über Kauf und Verkauf von kleinen und
+mittleren Unternehmen einschließlich Berufspraxen, jedoch ohne
+Immobilienvermittlungsgeschäfte
+– Patentmaklergeschäfte (Vermittlung von Kauf oder Verkauf von Patenten)
+– Verwaltung von Urheberrechten und der sich daraus ergebenden Einkünfte
+(mit Ausnahme von Filmen und anderen künstlerischen Werken)
+– Schätztätigkeiten, außer im Zusammenhang mit Immobilien und Versicherungen,
+(z. B. für Antiquitäten und Schmuck)
+– Prüfung von Rechnungen und Auskunft über Frachtraten
+– meteorologische Tätigkeiten
+– Sicherheitsberatung
+– landwirtschaftliche Beratung
+– Umweltberatung
+– sonstige technische Beratung
+– sonstige Beratung a. n. g.
+– Tätigkeiten von Quantity-Surveyors
+– Tätigkeiten von Agentinnen, Agenten und Agenturen, die Auftritte von Personen bei Film,
+Fernsehen und Theater, Unterhaltungs- und Sportveranstaltungen sowie Bücher,
+Schauspiele, Kunstwerke, Fotografien usw. an Produzenten, Verleger usw. vermitteln
+Diese Unterklasse umfasst nicht:
+– Tätigkeiten von Auktionshäusern (Groß- und Einzelhandel) (s. Abschnitt G)
+– Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie (s. 62.02.0)
+– Immobilienvermittlung (s. Gruppe 68.3)
+– Rechts- und Steuerberatung (s. Abteilung 69)
+– Buchführung (s. 69.20.4)
+– Unternehmensberatung (s. 70.22.0)
+– Beratungstätigkeiten von Architektur- und Ingenieurbüros (s. Gruppe 71.1)
+– Entwurf von Maschinen und Industrieanlagen (s. 71.12.2, 74.10.1)
+– Durchführung tierärztlicher Tests und Kontrollen im Zusammenhang mit der
+Nahrungsmittelherstellung (s. 71.20.0)
+– Werbegestaltung und -beratung (s. 73.11.0)
+– Entwurf und Herstellung von Ständen und anderen Displaysystemen und -einrichtungen (s. 73.11.0)
+– Messe-, Ausstellungs- und Kongressveranstaltung (s. 82.30.0)
+– Tätigkeiten selbstständiger Auktionatoren (s. 82.99.1)
+– Verwaltung von Treueprogrammen (s. 82.99.9)
+– Beratungsdienste für Ausbildungsorientierung (s. 85.60.0)
+– Verbraucherkredit- und Schuldnerberatung, Haushaltsgeldberatung, Ehe- und Familienberatung
+(s. 88.99.0)","Diese Unterklasse umfasst die Gesamtpalette von Werbeaktivitäten (entweder über
+unternehmenseigene Kapazitäten oder durch Auslagerung), einschließlich Beratung,
+kreative Dienste, Herstellung von Werbematerial und Einkauf.
+Diese Unterklasse umfasst:
+– Entwicklung und Durchführung von Werbekampagnen:
+• Planung und Durchführung von Werbekampagnen und Platzierung in Zeitungen,
+Zeitschriften, Hörfunk, Fernsehen, im Internet oder in anderen Medien
+• Planung und Platzierung von Außenwerbung, z. B. Plakatanschlag, Gestaltung von
+Schaufenstern und Ausstellungsräumen, Verkehrsmittelwerbung usw.
+• Planung und Durchführung von Luftwerbung
+• Verteilung und Zustellung von Werbematerial oder Mustern
+• Planung und Herstellung von Ständen und anderen Displaysystemen und -einrichtungen
+– Durchführung von Marketingkampagnen und anderen Werbediensten mit dem Ziel,
+Kunden zu werben und zu binden:
+• Produktwerbung
+• Absatzförderung in Endverkaufsstellen
+• Direktwerbung
+• Marketingberatung
+Diese Unterklasse umfasst nicht:
+– Verlegen von Werbematerial (s. 58.19.0)
+– Herstellung von Werbesendungen für Fernsehen und Film (s. 59.11.0)
+– Herstellung von Werbesendungen für den Hörfunk (s. 59.20.1)
+– Marktforschung (s. 73.20.0)
+– Werbefotografie (s. 74.20.1)
+– Messe-, Ausstellungs- und Kongressveranstaltung (s. 82.30.0)
+– Postversand (s. 82.19.0)","Diese Unterklasse umfasst die Kombination von Pflanzenbau und Tierhaltung ohne
+ausgeprägten Schwerpunkt. Der Gesamtumfang der landwirtschaftlichen Tätigkeit ist nicht
+entscheidend. Macht der Pflanzenbau oder die Tierhaltung in einem landwirtschaftlichen
+Betrieb mehr als 66 % des gesamten Standarddeckungsbeitrags des Betriebes aus, so ist
+die Gesamttätigkeit nicht dieser Klasse zuzurechnen, sondern entweder dem Pflanzenbau
+oder der Tierhaltung.
+Diese Unterklasse umfasst nicht:
+– gemischte pflanzliche Erzeugung (s. 01.1 und 01.2)
+– gemischte tierische Erzeugung (s. 01.4)","Diese Unterklasse umfasst die anderweit nicht genannten mit den Finanzdienstleistungen
+verbundenen Tätigkeiten:
+– Verarbeitung und Abrechnung von Finanztransaktionen einschließlich
+Kreditkartentransaktionen
+– Investmentberatung
+– Hypothekenberatung und -vermittlung
+– treuhänderische Effektenverwahrung gegen Entgelt oder auf Vertragsbasis
+Diese Unterklasse umfasst nicht:
+– Tätigkeit von Versicherungsmaklerinnen und -maklern (s. 66.22.0)
+– Fondsmanagement (s. 66.30.0)","Diese Unterklasse umfasst die meist kurzzeitige (tage- oder wochenweise) Beherbergung
+von Gästen. Sie umfasst die Unterbringung in jedermann zugänglichen möblierten
+Unterkünften wie Gästezimmern und Suiten. Die hier eingeordneten Einheiten bieten
+tägliches Bettenmachen und Reinigen der Zimmer, sowie ggf. eine Reihe von zusätzlichen
+Dienstleistungen wie die Bereitstellung von Parkplätzen, Textilreinigung, Schwimmbädern,
+Trainings- und Erholungseinrichtungen, Versammlungs- und Konferenzräumen an. Die hier
+zu klassifizierenden Einheiten verfügen nicht über ein Restaurant und bieten höchstens
+Frühstück an.
+Diese Unterklasse umfasst nicht:
+– Bereitstellung von Häusern und möblierten oder unmöblierten Wohnungen zur längerfristigen
+Nutzung, in der Regel auf monatlicher oder jährlicher Basis (s. Abteilung 68)","Diese Unterklasse umfasst die meist kurzzeitige (tage- oder wochenweise) Beherbergung
+von Gästen. Sie umfasst die Unterbringung in jedermann zugänglichen möblierten
+Unterkünften wie Gästezimmern und Suiten. Die hier eingeordneten Einheiten bieten
+tägliches Bettenmachen und Reinigen der Zimmer, verfügen über ein – auch für Passanten
+zugängliches – Restaurant und bieten eine Reihe von zusätzlichen Dienstleistungen wie die
+Bereitstellung von Parkplätzen, Textilreinigung, Schwimmbädern, Trainings- und
+Erholungseinrichtungen, Versammlungs- und Konferenzräumen an.
+
+Diese Unterklasse umfasst die Unterbringung in:
+– Hotels
+– Ferienhotels
+– Suite-/Apartmenthotels
+– Motels
+Diese Unterklasse umfasst nicht:
+– Bereitstellung von Häusern und möblierten oder unmöblierten Wohnungen zur längerfristigen
+Nutzung, in der Regel auf monatlicher oder jährlicher Basis (s. Abteilung 68)","Diese Unterklasse umfasst die Überwachung und Führung von Unternehmen und Betrieben,
+die Ausführung der strategischen und der Organisationsplanung und die
+Entscheidungsfindung in den Einheiten, die Ausübung der betrieblichen Kontrolle und die
+Führung des Tagesgeschäfts der Einheiten.
+
+Diese Unterklasse umfasst die Tätigkeiten von:
+– Firmenzentralen
+– zentralen Verwaltungsbüros
+– Bezirks- und Regionalbüros
+Diese Unterklasse umfasst nicht:
+– Holding-Gesellschaften, die nicht an der Unternehmensführung beteiligt sind (s. 64.20.0)
+– Holding-Gesellschaften, die an der Unternehmensführung beteiligt sind (s. 70.10.1)","Diese Unterklasse umfasst die Überwachung und Führung von anderen Einheiten eines
+Konzerns, die Ausführung der strategischen und der Organisationsplanung und die
+Entscheidungsfindung, die Ausübung der betrieblichen Kontrolle und die Führung des
+Tagesgeschäfts der verbundenen Einheiten.
+
+Diese Unterklasse umfasst die Tätigkeiten von:
+– Konzernzentralen
+– Tochtergesellschaftsverwaltungen
+Diese Unterklasse umfasst nicht:
+– Holding-Gesellschaften, die nicht an der Unternehmensführung beteiligt sind (s. 64.20.0)","Diese Unterklasse umfasst folgende Elektroinstallationen in Gebäuden und Tiefbauwerken
+aller Art:
+– Installation von:
+• elektrischen Leitungen und Armaturen
+• Leitungen für Telekommunikationssysteme
+• Leitungen für Computernetze und Kabelfernsehen, einschließlich Glasfaserkabeln
+• Antennen, einschließlich Parabolantennen
+• Beleuchtungsanlagen für Gebäude
+• Feuermeldeanlagen
+• Einbruchalarmanlagen
+• Notstromanlagen
+• Stromzählern
+• Befeuerungsanlagen für Rollbahnen
+• Beleuchtungs- und Signalanlagen für Straßen und andere Verkehrswege
+• Solarstromanlagen
+– Anschluss von elektrischen Haushaltsgeräten, einschließlich Fußleistenheizungen
+Diese Unterklasse umfasst nicht:
+– Installation von gewerblichen Maschinen und Ausrüstungen (s. 33.20.0)
+– Bau von Strom- und Kommunikationsleitungen (s. 42.22.0)
+– Installation von (Elektro-) Heizungsanlagen (s. 43.22.0)
+– Überwachung und Fernüberwachung von elektronischen Sicherheitssystemen wie Einbruchs- oder
+Diebstahlalarmgeräten und Feuermeldern, einschließlich deren Installation und Instandhaltung
+(s. 80.20.0)","Diese Unterklasse umfasst folgende Tätigkeiten des Spiel-, Wett- und Lotteriewesens:
+– Betrieb von Münzspielautomaten
+Diese Unterklasse umfasst nicht:
+– Betrieb von Münzspielen ohne Gewinnmöglichkeit zum Zweck der Unterhaltung (s. 93.29.0)","Diese Unterklasse umfasst:
+– Anlage und Pflege von:
+• Parks und Gärten für:
+• private und öffentliche Wohnungen
+• öffentliche und halböffentliche Gebäude (Schulen, Krankenhäuser,
+Verwaltungsgebäude, Kirchen usw.)
+• Industrie- und kommerzielle Bauten
+• kommunalen Flächen (Parks, Grünflächen usw.)
+• Verkehrswegebegrünung (Straßen, Eisenbahn- und Straßenbahnstrecken,
+Fußgängerzonen, Alleen, Wasserwege, Häfen)
+• Baumstandorten
+– Begrünung von:
+• Gebäuden (Dachgärten, Fassaden, Innengärten usw.)
+• Sportanlagen (Fußballplätze, Golfplätze usw.), Spielplätzen, Liegewiesen und andere
+Freizeitanlagen
+• stehenden und fließenden Gewässern (Sammelbecken, Feuchtgebiete, Teiche, Schwimm-
+und Badeteichanlagen, Schwimmbecken, Wassergräben, Wasserläufe,
+Pflanzenkläranlagen)
+– Anpflanzungen zum Schutz vor Lärm, Wind, Erosion, zum Sichtschutz und gegen
+Blendung
+– Verpflanzarbeiten, Großbaumverpflanzung
+– Baumpflege und Baumsanierung
+– Anspritzbegrünung
+– Renaturierung, Rekultivierung, Melioration nicht land- oder forstwirtschaftlicher Flächen
+– Anlage und Pflege von Wasserrückhalteflächen u. Ä.
+– Erdarbeiten, Anlegen von Wegen, Errichtung von Stützmauern und Zäunen u. ä.
+Tätigkeiten im Rahmen landschaftsgärtnerischer Gesamtwerke
+Diese Unterklasse umfasst nicht:
+– kommerzielle Erzeugung von Pflanzen und Bäumen und damit verbundene Tätigkeiten
+(s. Abteilungen 01 und 02)
+– Baumschulen und Forstbaumschulen (s. 01.30.2 und 02.10.0)
+– Erhaltung landwirtschaftlicher Flächen in gutem landwirtschaftlichen und ökologischen Zustand
+(s. 01.61.0)
+– Bautätigkeiten zur Landschaftsgestaltung (s. Abschnitt F)
+– Architekturbüros für Orts-, Regional- und Landesplanung (s. 71.11.3)","Diese Unterklasse umfasst:
+– Anwendung von physikalischen Gesetzen und Konstruktionsprinzipien auf den Entwurf
+von Maschinen, Materialien, Instrumenten, Strukturen, Verfahren und Systemen und
+Beratungstätigkeiten für:
+• Entwurf von Maschinen, industriellen Verfahren und Anlagen, bezogen auf die
+physikalisch-technische Funktionalität
+• Entwurf von Projekten in den Bereichen Elektrotechnik und Elektronik, Bergbau,
+Verfahrenstechnik, Maschinenbau, Fertigungsorganisation, Systementwicklung,
+Sicherheitstechnik, Klimatechnik, Kühltechnik, Sanitär- und Umwelttechnik, Akustik usw.
+Diese Unterklasse umfasst nicht:
+– Testbohrungen im Bergbau (s. 09.10.0 und 09.90.0)
+– Entwicklung und Verlegen von Software im Ingenieurwesen (s. 58.29.0 und 62.01.9)
+– Tätigkeiten von Hard- und Softwareberatern (s. 62.02.0 und 62.09.0)
+– technische, physikalische und chemische Untersuchungen (s. 71.20.0)
+– Forschung und Entwicklung im Ingenieurwesen (s. 72.19.0)
+– Industriedesign (s. 74.10.1)
+– Luftbildfotografie (s. 74.20.1)","Diese Unterklasse umfasst:
+– Anwendung von physikalischen Gesetzen und Konstruktionsprinzipien auf den Entwurf
+von bautechnischen Strukturen und Verfahren und Beratungstätigkeiten für:
+• Planung von Projekten im Zusammenhang mit Hoch- und Tiefbau, Wasser- und
+Straßenbau
+• Planung von Wasserwirtschaftsprojekten
+Diese Unterklasse umfasst nicht:
+– Testbohrungen im Bergbau (s. 09.10.0 und 09.90.0)
+– Entwicklung und Verlegen von Software im Ingenieurwesen (s. 58.29.0 und 62.01.9)
+– Tätigkeiten von Hard- und Softwareberatern (s. 62.02.0 und 62.09.0)
+– technische, physikalische und chemische Untersuchungen (s. 71.20.0)
+– Forschung und Entwicklung im Ingenieurwesen (s. 72.19.0)
+– Industriedesign (s. 74.10.1)
+– Luftbildfotografie (s. 74.20.1)","Diese Unterklasse umfasst:
+– Beherbergungsstätten, die jedermann zugänglich sind und in denen Speisen und
+Getränke nicht abgegeben werden, aber Kochgelegenheit vorhanden ist
+Diese Unterklasse umfasst nicht:
+– kurzzeitige Beherbergung mit täglichem Reinigen und Bettenmachen (s. 55.10)
+– Bereitstellung von Häusern und möblierten oder unmöblierten Wohnungen zur längerfristigen
+Nutzung, in der Regel auf monatlicher oder jährlicher Basis (s. Abteilung 68)","Diese Unterklasse umfasst:
+– Beratung, Anleitung und praktische Unterstützung von Unternehmen und anderen
+Organisationen in Managementfragen, z. B. strategische und Organisationsplanung sowie
+Umstellung von Unternehmensprozessen (einschließlich Sanierungsberatung),
+Change-Management, Kostenreduzierung und andere finanzielle Angelegenheiten,
+Marketingziele und -maßnahmen, Maßnahmen, Verfahren und Planung im
+Personalbereich (einschließlich damit verbundener Beratung bei der Suche und Auswahl
+von Fach- und Führungskräften), Produktionsplanung und Kontrollplanung. Diese
+unternehmensbezogenen Dienstleistungen können die Beratung, Anleitung und
+praktische Unterstützung von Unternehmen und öffentlichen Einrichtungen beinhalten,
+betreffend:
+• Entwurf von Buchführungsmethoden oder -verfahren, Kostenerfassungsprogrammen,
+Verfahren zur Budgetkontrolle
+• Beratung und Unterstützung von Unternehmen und öffentlichen Einrichtungen bei
+Planung, Organisation, Rationalisierung und Kontrolle, Führungsinformationen usw.
+Diese Unterklasse umfasst nicht:
+– Entwicklung von Computersoftware für Buchführungssysteme (s. 62.01.9)
+– Rechtsberatung und -vertretung (s. 69.10.1 bis .9)
+– Wirtschaftsprüfung und Steuerberatung; Buchführung (s. 69.20.1 bis .4)
+– Beratungstätigkeiten von Architektur- und Ingenieurbüros (s. 71.11.1 bis .3, 71.12.1 bis .9)
+– Beratungstätigkeiten in den Bereichen Umweltschutz, Landwirtschaft und Sicherheit und ähnliche
+Beratungstätigkeiten (s. 74.90.0)
+– Suche, Auswahl und Vermittlung von Arbeitskräften einschließlich Suche und Vermittlung von
+Führungskräften (s. 78.10.0)
+– Ausbildungsberatung (s. 85.60.0)","Diese Unterklasse umfasst:
+– Bereitstellung von Infrastrukturen für Hosting, Datenverarbeitungsdienste und damit
+– spezialisierte Hosting-Dienstleistungen:
+• Web-Hosting
+• Streamingdienste
+• Anwendungshosting
+– Bereitstellung von Anwendungsdiensten
+– allgemeine Bereitstellung von Rechenzeiten auf Großrechnern
+– Datenverarbeitungstätigkeiten:
+• vollständige Datenverarbeitung von Kundendaten
+• Erzeugung spezieller Berichte anhand von Kundendaten
+– Dateneingabe (auch durch Scannen)
+Diese Unterklasse umfasst nicht:
+– Tätigkeiten, bei denen Datenverarbeitungsanlagen nur als Hilfsmittel verwendet werden; sie werden
+entsprechend der angebotenen Dienstleistung klassifiziert
+– Aufnahme von Dokumenten auf Mikrofilm (s. 74.20.1)","Diese Unterklasse umfasst:
+– Bewirtungsstätten, die keine oder wenig Sitzgelegenheiten aufweisen und von denen ein
+eng begrenztes Sortiment von Speisen mit oder ohne Ausschank von Getränken zum
+Verzehr an Ort und Stelle oder zum Mitnehmen abgegeben wird:
+• Würstchenstände u. ä. Fast-Food-Einrichtungen
+• Imbissstuben, -ständen und -wagen
+– Zubereitung von Speisen in Marktständen
+– Betrieb von Imbissstuben u. Ä. in Verkehrsmitteln, soweit von selbstständigen Einheiten
+ausgeführt
+Diese Unterklasse umfasst nicht:
+– Automatenverkauf (s. 47.99.9)
+– Bewirtungsleistungen auf Lizenzbasis (s. 56.29.0)","Diese Unterklasse umfasst:
+– Einbau von Türen (außer automatischen Türen und Drehtüren), Fenstern, Tür- und
+Fensterrahmen aus Holz oder anderem Material
+– Einbau von Einbauküchen, Einbauschränken, Treppen, Ladeneinrichtungen u. Ä.
+– Einbau von Decken, beweglichen Trennwänden u. ä. Innenausbauarbeiten
+
+Dieser Unterklasse ist der Einbau selbst hergestellter und fremd bezogener Bauelemente
+u. Ä. zuzuordnen.
+Diese Unterklasse umfasst nicht:
+– Einbau von automatischen Türen und Drehtüren (s. 43.29.9)
+– Zusammenbau von frei stehenden Möbeln (s. 95.24.0)","Diese Unterklasse umfasst:
+– Einrichtungen, die der umfassenden Betreuung und Versorgung chronisch kranker und
+pflegebedürftiger Menschen dienen. Nach Anlage, Ausstattung und Personalbesetzung
+sind sie darauf ausgerichtet, verbliebene Kräfte der betroffenen Menschen mit ärztlicher
+Hilfe zu üben und zu erhalten sowie eine Besserung des Allgemeinzustandes,
+insbesondere durch aktivierende Pflege, herbeizuführen:
+• Altenpflegeheime
+• Genesungsheime mit Pflegekomponente
+• Erholungsheime mit Pflegekomponente
+• Pflegeeinrichtungen für Behinderte
+Diese Unterklasse umfasst nicht:
+– häusliche Pflege durch medizinische Pflegefachkräfte (s. Abteilung 86)
+– stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä. (s. 87.20.0)
+– Altenheime ohne oder mit nur minimaler Pflegeleistung (s. 87.30.0)
+– Sozialwesen mit Unterbringung wie Waisenhäuser, Kinderheime, Obdachlosenheime (s. 87.90.0)","Diese Unterklasse umfasst:
+– Einzelhandel mit Wohnmöbeln
+Diese Unterklasse umfasst nicht:
+– Einzelhandel mit Antiquitäten (s. 47.79.1)","Diese Unterklasse umfasst:
+– Einzelhandel mit gebrauchten Büchern
+Diese Unterklasse umfasst nicht:
+– Internet-Auktionen und sonstige Auktionen nicht in Verkaufsräumen (Einzelhandel)
+(s. 47.91.1 bis .9, 47.99.9)
+– Tätigkeiten von Leihhäusern (s. 64.92.2)","Diese Unterklasse umfasst:
+– Errichtung von Dächern
+– Decken von Dächern
+– Spenglerarbeiten im Außenbereich im Rahmen der Errichtung von Dächern
+Diese Unterklasse umfasst nicht:
+– Vermietung von Baumaschinen und -geräten ohne Bedienungspersonal (s. 77.32.0)","Diese Unterklasse umfasst:
+– Errichtung von Wohngebäuden aller Art:
+• Einfamilienhäuser
+• Mehrfamilienhäuser einschließlich Hochhäuser
+– Errichtung von Nichtwohngebäuden aller Art:
+• kommerzielle Gebäude wie Fabriken, Werkstätten, Montagewerke
+• Krankenhäuser, Schulen, Bürogebäude
+• Hotels, Geschäftshäuser, Einkaufszentren, Gaststätten
+• Flughafengebäude
+• Sporthallen
+• Parkhäuser und Tiefgaragen
+• Lagerhäuser
+• Kirchen und andere Sakralbauten
+– Umbau oder Renovierung bestehender Wohnanlagen
+Diese Unterklasse umfasst nicht:
+– Bau von Industrieanlagen, die keine Gebäude sind (s. 42.99.0)
+– Tätigkeiten von Architektur- und Ingenieurbüros (s. Gruppe 71.1)
+– Projektmanagement für Bauvorhaben (s. Gruppe 71.1)","Diese Unterklasse umfasst:
+– Forstung von Stammholz: Erstaufforstung, Wiederaufforstung, Durchforstung und
+Waldpflege
+– Forstung von Niederwald, Papierholz und Feuerholz
+– Betrieb von Forstbaumschulen
+Diese Unterklasse umfasst nicht:
+– Forstung von Weihnachtsbäumen (s. 01.29.0)
+– Betrieb von Baumschulen, außer von Forstbaumschulen (s. 01.30.2)
+– Sammeln von Pilzen und anderem wild wachsendem Waldmaterial (s. 02.30.0)
+– Herstellung von Holzschnitzeln und -plättchen (s. 16.10.0)","Diese Unterklasse umfasst:
+– Gewinnung und Ausbaggern von Sanden und Kiesen aller Art
+– Brechen und Mahlen von Kies
+– Gewinnung von Sand
+– Gewinnung von keramischem und feuerfestem Ton sowie Kaolin
+Diese Unterklasse umfasst nicht:
+– Gewinnung von bituminösen Sanden (s. 06.10.0)","Diese Unterklasse umfasst:
+– Groß- und Einzelhandel mit sowie Handelsvermittlung von neuen und gebrauchten
+Kraftwagen:
+• Personenkraftwagen einschließlich Sonderfahrzeuge wie Krankenwagen, Kleinbusse
+usw. (mit einem Gesamtgewicht von 3,5 t oder weniger)
+– Groß- und Einzelhandel mit sowie Handelsvermittlung von geländegängigen Kraftwagen
+(mit einem Gesamtgewicht von 3,5 t oder weniger)
+Diese Unterklasse umfasst nicht:
+– Groß- und Einzelhandel mit sowie Handelsvermittlung von Kraftwagenteilen und -zubehör
+(s. Gruppe 45.3)
+– Vermietung von Personenkraftwagen mit Fahrer (s. 49.32.0)
+– Vermietung von Personenkraftwagen ohne Fahrer (s. 77.11.0)","Diese Unterklasse umfasst:
+– Großhandel mit Dekorations- und Möbelstoffen, Gardinen, dekorativen Decken und
+Kissen, Stuhl- und Sesselauflagen u. Ä.
+– Großhandel mit Matratzen, Steppdecken u. a. Bettdecken, Kopfkissen u. a. Bettwaren
+– Großhandel mit Haus- und Tischwäsche, z. B. Hand-, Bade- und Geschirrtücher,
+Tischdecken, Stoffservietten, Bettwäsche
+– Großhandel mit Kurzwaren, z. B. Nähnadeln, handelsfertig aufgemachte Näh-, Stopf- und
+Handarbeitsgarne, Knöpfe, Reißverschlüsse
+Diese Unterklasse umfasst nicht:
+– Großhandel mit Textilfasern (s. 46.76.0)","Diese Unterklasse umfasst:
+– Großhandel mit Kraft- und Schmierstoffen, z. B.:
+• Erdöl, Rohöl, Dieselkraftstoff, Benzin, Heizöl, Kerosin
+• Flüssiggas, Butan und Propan
+• Schmieröle und -fette","Diese Unterklasse umfasst:
+– Großhandel mit PCs, Notebooks u. a. Datenverarbeitungsgeräten
+– Großhandel mit Computerbildschirmen, Computertastaturen, Computerdruckern,
+Beleglesegeräten u. a. peripheren Geräten
+– Großhandel mit Software
+
+
+
+
+Diese Unterklasse umfasst nicht:
+– Großhandel mit elektronischen Bauteilen (s. 46.52.0)
+– Großhandel mit Büromaschinen (ohne Datenverarbeitungsgeräte und periphere Geräte) (s. 46.66.0)","Diese Unterklasse umfasst:
+– Großhandel mit Werkzeugmaschinen jeder Art und für jedes Material, auch
+computergesteuert
+Diese Unterklasse umfasst nicht:
+– Großhandel mit Werkzeugen (s. 46.74.1)","Diese Unterklasse umfasst:
+– Großhandel mit elektrischen Wasch-, Bügel- und Geschirrspülmaschinen, Kühl- und
+Gefrierschränken und -truhen, Staubsaugern usw. für den Haushalt
+– Großhandel mit elektrischen Brotschneidemaschinen, Dosenöffnern usw. für den
+– Großhandel mit elektrischen Heizgeräten für den Haushalt
+Diese Unterklasse umfasst nicht:
+– Großhandel mit unbespielten Ton- und Videobändern, CDs und DVDs (s. 46.52.0)
+– Großhandel mit Nähmaschinen (s. 46.64.0)","Diese Unterklasse umfasst:
+– Großhandel mit pharmazeutischen Grundstoffen und zubereiteten Arzneimitteln,
+Impfstoffen, Verbandmitteln, Desinfektionsmitteln, Röntgen-Kontrastmitteln usw.","Diese Unterklasse umfasst:
+– Güterbeförderung im Straßenverkehr:
+• Holztransport
+• Viehtransport
+• Kühlwagentransport
+• Schwertransport
+• Gefahrguttransport
+• Tankwagentransport einschl. Milchsammlung, Transport mit Silofahrzeugen
+• Transport von Kraftwagen
+• Transport von Abfällen und Abfallstoffen (jedoch nicht deren Sammlung und Beseitigung)
+– Lkw-Vermietung mit Fahrer
+– Güterbeförderung mit von Menschen oder Tieren gezogenen Fahrzeugen
+Diese Unterklasse umfasst nicht:
+– Transport von Stämmen im Wald im Rahmen der Holzfällerei (s. 02.40.0)
+– Verteilung von Wasser durch Lastkraftwagen (s. 36.00.3)
+– Abfalltransport als integraler Bestandteil der Abfallsammlung (s. 38.11.0 und 38.12.0)
+– Umzugstransporte (s. 49.42.0)
+– Betrieb von Güterabfertigungseinrichtungen für Schienen- und Straßenfahrzeuge (s. 52.21.5)
+– Verpacken im Hinblick auf den Transport (s. 52.29.1)
+– Post-, Kurier- und Expressdienste (s. 53.20.0)","Diese Unterklasse umfasst:
+– Güterversendungen
+– Organisation von Beförderungsleistungen zu Land, zu Wasser oder in der Luft
+– Sammel- und Einzelladungsverkehre (einschließlich Abholung, Auslieferung und
+Zusammenstellung von Sendungen)
+– Ausstellung und Beschaffung von Transportdokumenten und Begleitpapieren
+– Zollspedition
+– Tätigkeiten von See- und Luftfrachtspeditionen
+– Übernahme von Warenmanipulationen, z. B. Verpackung, Umpackung, Bemusterung,
+Wiegen der Güter
+Diese Unterklasse umfasst nicht:
+– Güterbeförderung (s. Abteilungen 49 bis 51)
+– Betrieb von Güterabfertigungseinrichtungen (s. 52.21.5, 52.22.2 und 52.23.1)
+– Frachtumschlag (s. 52.24.0)
+– Kurierdienste (s. 53.20.0)
+– Erbringung von Kraftfahrt-, See-, Luftfahrt- und anderen Transportversicherungsleistungen
+(s. 65.12.2)","Diese Unterklasse umfasst:
+– Haarwäsche, Schneiden, Legen, Färben, Tönen, Wellen, Glätten und ähnliche
+Frisördienstleistungen für Männer, Frauen und Kinder
+– Rasur und Bartpflege
+Diese Unterklasse umfasst nicht:
+– Herstellung von Perücken (s. 32.99.0)","Diese Unterklasse umfasst:
+– Handelsvermittlung von mineralischen Baustoffen wie Steine, Sand, Kies, Schotter,
+Zement, Mörtel, Dämmplatten
+– Handelsvermittlung von Bauelementen aus Stahl, z. B. Fenster, Türen, Tore, Treppen,
+Rollläden, Geländer
+– Handelsvermittlung von Fertigteilbauten aus mineralischen Stoffen, z. B. Garagen
+– Handelsvermittlung von Flachglas
+– Handelsvermittlung von Farben und Lacken
+Diese Unterklasse umfasst nicht:
+– Handelsvermittlung von Tapeten (s. 46.18.6)","Diese Unterklasse umfasst:
+– Herstellung von Metallskeletten und Gerüsten für den Bau (Türme, Masten, Fachwerk,
+Brücken usw.) und von Teilen dafür
+– Herstellung von Metallskeletten für Industrie und Gewerbe (Tragwerke für Hochöfen,
+Hebe- und Fördervorrichtungen usw.)
+– Herstellung von vorgefertigten Metallgebäuden:
+• Bauhütten, Ausstellungsbauelemente usw.
+Diese Unterklasse umfasst nicht:
+– Herstellung von Dampfkesseln für Schiffe und Kraftwerke (s. 25.30.0)
+– Herstellung von montiertem Gleismaterial (s. 25.99.3)
+– Herstellung von Schiffssegmenten (s. 30.11.0)","Diese Unterklasse umfasst:
+– Kauf und Verkauf von eigenen Gewerbegrundstücken und Nichtwohngebäuden:
+• Nichtwohngebäude einschließlich Ausstellungshallen, Selbsteinlagerungssysteme und
+Einkaufszentren
+• Gewerbegrundstücke
+– Aufteilung von Gewerbegrundstücken und Nichtwohngebäuden in Parzellen bzw.
+Einheiten, ohne Infrastrukturverbesserung
+Diese Unterklasse umfasst nicht:
+– Realisierung von Bauvorhaben zum Verkauf (s. 41.10.1 bis .3)
+– Flächenaufteilung mit Infrastrukturverbesserung (s. 42.99.0)","Diese Unterklasse umfasst:
+– Kauf und Verkauf von eigenen Wohngrundstücken, Wohngebäuden und Wohnungen:
+• Ein- und Mehrfamilienhäuser und Wohnungen
+• Wohngrundstücke
+– Aufteilung von Wohngrundstücken, Wohngebäuden und Wohnungen in Parzellen bzw.
+Einheiten, ohne Infrastrukturverbesserung
+Diese Unterklasse umfasst nicht:
+– Realisierung von Bauvorhaben zum Verkauf (s. 41.10.1 bis .3)
+– Flächenaufteilung mit Infrastrukturverbesserung (s. 42.99.0)","Diese Unterklasse umfasst:
+– Steuerdeklarationsberatung für Privatpersonen und Unternehmen (z. B. Anfertigen von
+Steuererklärungen, Prüfen der Steuerbescheide)
+– Steuerdurchsetzungsberatung (z. B. gerichtliche und außergerichtliche Vertretung der
+Mandanten vor Steuerbehörden und Finanzgerichten)
+– Steuergestaltungsberatung (z. B. bei Umstrukturierungen)
+Diese Unterklasse umfasst nicht:
+– Datenverarbeitungs- und Tabellierungstätigkeiten (s. 63.11.0)
+– Unternehmensberatung im Bereich Buchführungssysteme und Verfahren zur Budgetkontrolle
+(s. 70.22.0)
+– Wechselinkasso (s. 82.91.1)","Diese Unterklasse umfasst:
+– Tätigkeit von Versicherungsmaklerinnen und -maklern (Versicherungsvermittlerinnen und
+-vermittlern) in Form des Verkaufs von, des Handels mit und der Akquisition von
+Versicherungsverträgen","Diese Unterklasse umfasst:
+– Tätigkeiten von Architekturbüros u. Ä.:
+• Bauplanung und -entwurf durch Architekturbüros für den Hochbau
+• Bauaufsicht durch Architekturbüros für den Hochbau","Diese Unterklasse umfasst:
+– Tätigkeiten von Astrologinnen, Astrologen Spiritistinnenund Spiritisten
+– Erbringung persönlicher Dienstleistungen wie Begleitdienste, Heirats- und
+Partnervermittlung
+– Betreuung von Haustieren wie Unterbringung, Pflege, Beaufsichtigung und Dressur
+– Tätigkeiten von Ahnenforschungsinstituten
+– Tätigkeiten von Tätowierungs- und Piercingstudios
+– Tätigkeiten von Schuhputzerinnen und Schuhputzern, Trägerinnen und Trägern,
+Parkplatzzuweiserinnen und -zuweisern usw.
+– Betrieb von münzbetriebenen Geräten für persönliche Dienstleistungen wie
+Fotoautomaten, Waagen, Blutdruckmessern, Schließfächern usw.
+Diese Unterklasse umfasst nicht:
+– Veterinärwesen (s. 75.00.1 und .9)
+– Betrieb von Münzspielautomaten (s. 92.00.1)
+– Betrieb von Münzspielen ohne Gewinnmöglichkeit zum Zweck der Unterhaltung (s. 93.29.0)
+– Betrieb von Münzwaschautomaten (s. 96.01.0)","Diese Unterklasse umfasst:
+– Tätigkeiten von Holding-Gesellschaften, d. h. von Einheiten, die die Aktiva
+(Kontrollmehrheit) einer Gruppe von Tochterunternehmen halten und deren
+Hauptfunktion darin besteht, Eigentümer dieser Gruppe zu sein. Die zu dieser Unterklasse
+zählenden Holding-Gesellschaften erbringen keine andere Dienstleistung für die
+Unternehmen, deren Aktien sie halten, d. h. sie haben keine Funktion in der Verwaltung
+oder im Management anderer Einheiten.
+Diese Unterklasse umfasst nicht:
+– aktives Management von Unternehmen, strategische Planung und Entscheidung in Unternehmen
+(s. 70.10.1 und .9)","Diese Unterklasse umfasst:
+– Verlegen, Anbringen oder Einbau von:
+• Wand- und Bodenfliesen oder -platten aus Keramik, Beton oder Stein
+• Ofenkacheln
+• Parkett- und andere Holzböden, Wandvertäfelungen
+• Teppich- und Linoleumböden sowie Bodenbeläge aus Gummi oder Kunststoffen
+• Böden und Wandverkleidungen aus Terrazzo, Marmor, Granit oder Schiefer
+• Tapeten
+– Parkettversiegelung
+– Fußbodenschleiferei","Diese Unterklasse umfasst:
+– Vermietung und Operating-Leasing von Personenkraftwagen und anderen Kraftwagen mit
+einem Gesamtgewicht von 3,5 t oder weniger ohne Fahrer
+Diese Unterklasse umfasst nicht:
+– Vermietung von Personenkraftwagen mit Fahrer (s. 49.32.0)
+– Vermietung von Motorrädern und Wohnwagen ohne Fahrer (s. 77.39.0)","Diese Unterklasse umfasst:
+– Vermietung, Verpachtung und Bewirtschaftung von eigenen oder geleasten
+Wohngrundstücken, Wohngebäuden oder Wohnungen:
+• Ein- und Mehrfamilienhäuser und Wohnungen
+• Wohngrundstücke
+– Bereitstellung von Häusern und möblierten oder unmöblierten Wohnungen zur
+längerfristigen Nutzung, in der Regel auf monatlicher oder jährlicher Basis
+– Realisierung von Wohnungsbauvorhaben zur eigenen Bewirtschaftung
+– Vermietung und Verpachtung von Grundstücken für Wohnmobile
+Diese Unterklasse umfasst nicht:
+– Betrieb von Hotels, Gasthöfen, Pensionen, Ferienheimen, Wohnheimen, Campingplätzen und
+sonstigen Unterkünften für kurzzeitigen Aufenthalt (s. Abteilung 55)","Diese Unterklasse umfasst:
+– sonstige, anderweitig nicht genannte Dienstleistungen im Bereich der
+Informationstechnologie und Computertechnik, z. B.:
+• Datenwiederherstellung nach einem Systemabsturz
+• Installieren (Einrichten) von Arbeitsplatzrechnern
+• Softwareinstallation
+Diese Unterklasse umfasst nicht:
+– Installation von Großrechnern und ähnlichen Computern (s. 33.20.0)
+– Programmierungstätigkeiten (s. 62.01.1 und .9)
+– Beratung auf dem Gebiet der Informationstechnologie (s. 62.02.0)
+– Betrieb von Datenverarbeitungseinrichtungen für Dritte (s. 62.03.0)
+– Datenverarbeitung und Hosting (s. 63.11.0)","Diese Unterklasse umfasst:
+– spezielle Tätigkeiten im Hoch- und Tiefbau, die besondere Fachkenntnisse bzw.
+Ausrüstungen erfordern:
+• Herstellen von Fundamenten einschließlich Pfahlgründung
+• Abdichtung gegen Wasser und Feuchtigkeit
+• Gebäudetrocknung
+• Schachtbau
+• Montage von Stahlelementen
+• Eisenbiegerei
+• Mauer- und Pflasterarbeiten
+• Betonarbeiten, einschließlich Stahlbetonarbeiten
+• Aufstellen von Stadtmöbeln (z. B. Wartehäuschen, Bänke)
+• Arbeiten, für die spezielle Voraussetzungen, wie Erfahrung im Klettern und die
+entsprechende Ausrüstung, erforderlich sind, d. h. Arbeiten an Bauwerken in großer Höhe
+– Unterwasserarbeiten
+– Bau von Außenschwimmbecken
+– Fassadenreinigung
+– Vermietung von Kränen und anderen Baugeräten, die nicht einer bestimmten Bautätigkeit
+zugeordnet werden können, mit Bedienungspersonal
+Diese Unterklasse umfasst nicht:
+– Vermietung von Baumaschinen und -geräten ohne Bedienungspersonal (s. 77.32.0)","Diese Unterklasse umfasst:
+– wörtliche Niederschrift und stenografische Mitschrift von Gerichtsverfahren und
+anschließende Abschrift von:
+• Mitschriften bei Gericht, auch stenografisch
+• öffentlichen Stenografierdiensten
+– Echtzeit- (d. h. simultane) Untertitelung von Live-Fernsehaufnahmen von Sitzungen und
+Konferenzen
+– Verwaltung von Adressenlisten mittels Strichcodes
+– Strichcode-Druck
+– Tätigkeiten von Fundraising-Organisationen im Lohnauftrag
+– Rückübereignungsdienste
+– Einsammeln von Münzen aus Parkuhren
+– Verwaltung von Kundentreueprogrammen
+– Herausgabe von Geschenkgutscheinen
+– Telefonauftragsdienste, Telefonweckdienste
+– Ablesen von Wärme-, Strom-, Gas- und Wasserzählern
+Diese Unterklasse umfasst nicht:
+– automatisierte computergestützte Informationsdienstleistungen, z. B. Telefonauskunftsdienste
+(s. 63.99.0)
+– Transkription von Dokumenten (s. 82.19.0)
+– Be- und Untertitelung von Filmen (s. 59.12.0)"
+0,20,1,1,2,1,8,1,1,1,1,4,1,1,2,7,0,2,1,1,2,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,6,1,2,1,2,3,1,1,2,1,3,11
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
