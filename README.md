@@ -16,17 +16,10 @@ This repository contains code for clustering companies based on website content,
 - **Evaluation & Outputs**:  
   - Silhouette scores, purity, noise statistics  
   - Sector-wise composition tables  
-  - Visualization plots (dendrograms, PCA/UMAP projections)  
+  - Visualization plots (dendrograms, PCA/UMAP projections)
+  
+## Requirements
 
-## Running the Code
-
-Simply execute:
-
-```bash
-python companydatacluster.py
-All input/output directories are specified within the script or its configuration options.
-```bash
-##Requirements
 Company data: extracted.json (provided by the University)
 
 Business sector codes: kodes.json (provided by the University)
@@ -42,5 +35,12 @@ Composition CSVs: sector-wise breakdown for each clustering run.
 
 Figures: dendrograms, PCA/UMAP scatterplots in the output folder.
 
-##Citation
-Seal, S. (2025). Clustering based on Company Website Information.
+## Running the Code
+
+Simply execute:
+
+```bash
+python companydatacluster.py
+
+
+
