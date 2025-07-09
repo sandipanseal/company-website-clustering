@@ -27,6 +27,7 @@ Business sector codes: kodes.json (provided by the University)
 Website cache: directory of cached HTML files (provided by the University)
 
 ##Data & Outputs
+
 Sector codes: German WZ 2008 classifications in kodes.json.
 
 Metrics CSV: silhouette, purity, noise counts per method.
