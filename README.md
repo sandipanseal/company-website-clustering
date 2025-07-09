@@ -25,7 +25,7 @@ Simply execute:
 ```bash
 python companydatacluster.py
 All input/output directories are specified within the script or its configuration options.
-
+```bash
 ##Requirements
 Company data: extracted.json (provided by the University)
 
